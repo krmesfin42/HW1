@@ -1,3 +1,7 @@
+/*
+The class returns the total cost of the carpet
+has a class object 'RoomDimension' as a field
+ */
 public class RoomCarpet {
     private RoomDimension size;
     private double carpetCost;

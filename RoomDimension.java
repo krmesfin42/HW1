@@ -1,3 +1,6 @@
+/*
+The class returns the area of the room
+ */
 public class RoomDimension {
     private double length;
     private double width;

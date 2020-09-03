@@ -2,7 +2,9 @@
 Name: Kirubel Negash
 CptS 233: MicroAssignment #1
 Date: 09/03/2020
-gitRepo url:
+gitRepo url: https://github.com/krmesfin42/HW1.git
+The program lets the user to enter the dimensions of a room and price per sq.ft of a desired carpet.
+Display the cost of the carpet.
  */
 import java.util.Scanner;
 public class Main {
